@@ -1,0 +1,16 @@
+.app_container {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  gap: 10px;
+}
+
+.app_container .input_content {
+  width: 100%;
+  height: 400px;
+}
+
+.app_container .content_viewer {
+  width: 100%;
+  border: 1px solid black;
+}
